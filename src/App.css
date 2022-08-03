@@ -236,7 +236,7 @@ body{
   content: "";
   height: 30px;
   width: 200px;
-  background: linear-gradient(45deg, #999ee5, #ac2669);
+  background: linear-gradient(45deg, #999ee5, #2655ac);
   position: absolute;
   animation: boxloading 6s linear infinite;
 
